@@ -1,4 +1,5 @@
 # Bubble Sort Algorithm #
+> First do it your self👍
 
 **Problem Statement:** Given an array of N integers, write a program to implement the Bubble Sorting algorithm.
 
