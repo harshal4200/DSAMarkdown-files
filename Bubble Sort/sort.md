@@ -40,23 +40,23 @@ Basically, we will swap adjacent elements(if arr[j] > arr[j+1]) until the maximu
 
 **Iteration 1:**
 
-- *Click on image*: [!image](https://lh6.googleusercontent.com/oM3nMhm5vEofXCV_aV1JH1PIQEhmYLgTUGqWNtb0KRGAe_YN0D8XHtNIA9SBYCDzjrMzUXjgwroBDvRPeEpeSwfOYcvxmNCgxPO8D91O4tyAX8zE6mTPpZxH31NR-xr-SsDCUtek)
+- *Click on image*: ![image](https://lh6.googleusercontent.com/oM3nMhm5vEofXCV_aV1JH1PIQEhmYLgTUGqWNtb0KRGAe_YN0D8XHtNIA9SBYCDzjrMzUXjgwroBDvRPeEpeSwfOYcvxmNCgxPO8D91O4tyAX8zE6mTPpZxH31NR-xr-SsDCUtek)
 
 **Iteration 2:**
 
-- *Click on image*: [!image](https://lh4.googleusercontent.com/LHJEryke4hIsjf2u3Mefyo7_MU7HxX3qcCgxYiTyGVaL8c1n1jU9lIOlTazZxNbNa4bUIIM_NAAFYt5iWFqDL1Y1JEOEgymIlvH7b4yMt7BSUcWrsya1hsCPS1dFDmyHw6rG2_SH)
+- *Click on image*: ![image](https://lh4.googleusercontent.com/LHJEryke4hIsjf2u3Mefyo7_MU7HxX3qcCgxYiTyGVaL8c1n1jU9lIOlTazZxNbNa4bUIIM_NAAFYt5iWFqDL1Y1JEOEgymIlvH7b4yMt7BSUcWrsya1hsCPS1dFDmyHw6rG2_SH)
 
 **Iteration 3:**
 
-- *Click on image*: [!image](https://lh3.googleusercontent.com/VmYabkBnLRYPfarWlQ7pTFHbI5ODTqZ2TdMTx6H2sgHgyEwI7EC9YKvf36qGbKPkQ2qm4hVUHYlnw8T4YLyNFgqtqAozZuOaCWkV5Ye5WN-tS_fVgZ2j6EzbewtHuKhmKZ8jUKt6)
+- *Click on image*: ![image](https://lh3.googleusercontent.com/VmYabkBnLRYPfarWlQ7pTFHbI5ODTqZ2TdMTx6H2sgHgyEwI7EC9YKvf36qGbKPkQ2qm4hVUHYlnw8T4YLyNFgqtqAozZuOaCWkV5Ye5WN-tS_fVgZ2j6EzbewtHuKhmKZ8jUKt6)
 
 **Iteration 4:**
 
-- *Click on image*: [!image](https://lh3.googleusercontent.com/Juw-bqmSz6H85bDRedC7l5SppP0DOsTDpyOj7t5xYJGj_WLDWMe3NneyEzNg5HPIZBsj3Ve2f7lb4KpdjM4cKfaGuwKE3-jLMtJY5a75oOaZsJq39cLjPCoquvjqyar24QIhj6T9)
+- *Click on image*: ![image](https://lh3.googleusercontent.com/Juw-bqmSz6H85bDRedC7l5SppP0DOsTDpyOj7t5xYJGj_WLDWMe3NneyEzNg5HPIZBsj3Ve2f7lb4KpdjM4cKfaGuwKE3-jLMtJY5a75oOaZsJq39cLjPCoquvjqyar24QIhj6T9)
 
 **Iteration 5:**
 
-- *Click on image*: [!image](https://lh3.googleusercontent.com/i72GuG_M25X940lzQHlFx3zSMR8R-jWoYvsIOc-hGCvd9bW8Ch4q2JW3edrQ3t1BN-wkLPXlRsjBuHurWmMPPge9vUSp58yPT4b32POGQ6B3qVv1l6WWanPQu2222QGbtcm-Cvxr)
+- *Click on image*: ![image](https://lh3.googleusercontent.com/i72GuG_M25X940lzQHlFx3zSMR8R-jWoYvsIOc-hGCvd9bW8Ch4q2JW3edrQ3t1BN-wkLPXlRsjBuHurWmMPPge9vUSp58yPT4b32POGQ6B3qVv1l6WWanPQu2222QGbtcm-Cvxr)
 
 **Code:**
 
