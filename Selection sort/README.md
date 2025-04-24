@@ -1,20 +1,19 @@
-~~# Practice-of-Markdown-file~~
 
 
-### Just for practice😊 ###
 
-# Selection Sort Algorithm
 
-## Problem Statement
-Given an array of **N integers**, write a program to implement
+# Selection Sort Algorithm #
+
+**Problem Statement**
+- Given an array of **N integers**, write a program to implement
 the selection sorting algorithm.
 ---
-### Examples:
+### Examples: ###
 
 **Example 1:**
-**Input:** `N=6, array[] = {13,46,24,52,20,9}`
-**Output:** `9,13,20,24,46,52`
-**Explanation:** After sorting the array is: `9,13,20,24,46,52`
+- **Input:** `N=6, array[] = {13,46,24,52,20,9}`
+- **Output:** `9,13,20,24,46,52`
+- **Explanation:** After sorting the array is: `9,13,20,24,46,52`
 ---
 ## Solution
 
@@ -44,51 +43,38 @@ the selection sorting algorithm.
 **Dry run:**
 - The following dry run will clarify the concepts:
 
-- Assume the given array is:
-- `{7, 5, 9, 2, 8}`
+- Assume the given array is: `{7, 5, 9, 2, 8}`
 
 **Outer loop iteration 1:**
 - The range will be the whole array starting from the 1st index as this is the first iteration. The minimum element of this range is 2(found using the inner loop).
-```
-    0         1        2        3
---------- --------- -------- -------
-|   7    |    5    |    9   |   2   |
-```
+  
+![image](https://static.takeuforward.org/wp/uploads/2023/03/Screenshot-2023-03-13-223901.png)
 
 - `2` is minimum
 
 **Outer loop iteration 2:**
 - The range will be from the [2nd index to the last index] as the array is sorted up to the first index. The minimum element of this range is 5(found using the inner loop).
-```
-    0           1         2         3
------------ ----------  --------  -------
-|   2      |    5     |   9     |   8    |
-```
+  
+![image](https://static.takeuforward.org/wp/uploads/2023/03/Screenshot-2023-03-13-224021.png)
 
 - After iteration `2`, the elements up to the 2nd index are sorted.
 
 **Outer loop iteration 3:**
-```
-    0         1        2          3   
- --------  --------  -------  --------
-|    2   |    5    |   9     |    7   |
-```
-- After iteration `3`, the elements up to the 3rd index are sorted.
+- The range will be from the [3rd index to the last index]. The minimum element of this range is 7(found using the inner loop).
+  
+![image](https://static.takeuforward.org/wp/uploads/2023/03/Screenshot-2023-03-13-225729.png)
+
 
 **Outer loop iteration 4:**
 - The range will be from the [4th index to the last index]. The minimum element of this range is 8(found using the inner loop).
-```
-    0       1      2        3
- -------- ------ ------- -------
-|   2    |  5   |  7   |   8   |
-```
-- After iteration `4`,all the elements are sorted.
+  
+![image](https://static.takeuforward.org/wp/uploads/2023/03/Screenshot-2023-03-13-225822.png)
 
 ---
 
 - So, after 4 iterations(i.e. n-1 iterations where n = size of the array), the given array is sorted.
 
-```java
+``` java
 import java.util.*;
 
 public class SelectSort {
