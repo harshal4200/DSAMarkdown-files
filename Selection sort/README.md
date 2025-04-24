@@ -1,7 +1,7 @@
-# Practice-of-Markdown-file
+~~# Practice-of-Markdown-file~~
 
 
-- 😊 Just for practice
+### Just for practice😊 ###
 
 # Selection Sort Algorithm
 
