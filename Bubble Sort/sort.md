@@ -16,7 +16,7 @@
 **Explanation:** After sorting we get `1,2,3,4,5`
 
 ## Solution ##
-**Disclaimer:** Don't jump directly to the solution, try it out yourself first.
+>**Disclaimer:** Don't jump directly to the solution, try it out yourself first.
 
 ## Practice: ##
 
