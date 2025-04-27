@@ -17,8 +17,8 @@ the selection sorting algorithm.
 ---
 ## Solution
 
-**Disclaimer**:
-- _Don't jump directly to the solution, try it out yourself first._
+>Disclaimer:
+ _Don't jump directly to the solution, try it out yourself first._
 
 **Approach:**
 
